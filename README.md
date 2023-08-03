@@ -26,9 +26,7 @@ process.stdin.pipe(beam).pipe(process.stdout)
 
 ## CLI
 
-Part of the [Hyperspace CLI, hyp](https://github.com/hypercore-protocol/cli)
-
-Provided here as a standalone CLI as well.
+hyperbeam can be used as a standalone commandline application.
 
 First install it
 
